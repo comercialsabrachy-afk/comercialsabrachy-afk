@@ -44,12 +44,5 @@ Plataforma **full stack** para **avaliação e ranking de estabelecimentos locai
 - Arquitetura preparada para React
 - Gamificação e ranking por categorias
 
-🔗 Confira o repositório abaixo 👇
 
----
 
-## 📊 GitHub Stats
-
-![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
